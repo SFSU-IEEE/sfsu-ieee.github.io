@@ -3,14 +3,14 @@
   <head>
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Slate is a responsive theme for GitHub Pages" />
+    <meta name="description" content="IEEE SFSU" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
 
-    <title>Slate : A responsive theme for GitHub Pages</title>
+    <title>IEEE SFSU</title>
   </head>
 
   <body>
     <div id="header_wrap" class="outer">
         <header class="inner">
-		<h1 id="project_title" >IEEE at SFSU</h1>
+		<h1 id="project_title" >IEEE @ SFSU</h1>
