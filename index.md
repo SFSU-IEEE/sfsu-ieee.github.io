@@ -16,6 +16,6 @@ Friday was also the last day to pay student dues. Shirts prices as a result went
 ###<a href="./pages/projects.html">Projects:</a>
 Find out what projects other students are working on in their classes and outside the classroom. 
 
-###[Contact Us:](http://sfsu-ieee.github.io/contact.html)
+###<a href="./pages/contact.html">Contact Us:</a>
 This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to any of the officers. Thanks for looking!
 
