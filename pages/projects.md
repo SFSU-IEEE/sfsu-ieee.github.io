@@ -8,3 +8,6 @@ If you have a project that you would like displayed please contact any of the of
 
 ###IEEE Website
 This very website is a project and if you would like to add or make suggestions then please do so by going to the project page!
+
+###Project Blue
+Something descriptive here about project blue

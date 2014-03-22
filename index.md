@@ -5,11 +5,16 @@ title: Welcome!
 #Hello World!
 This is the official site for IEEE students at SFSU. You will find all information regarding our student chapter here on this site. We have meetings once every two weeks and our goal is to continue the learning of electrical and electronic engineering outside the classroom.
 
-###[Projects:](http://sfsu-ieee.github.io/projects.html)
-
 ###Last meeting:
+Last meeting we had Wendy Al-Mukdad come to present. The presentation was great with all the advice and help she provided for us as students. We also had a few members of SWE come and attend our meeting. If you need any information on the scholarship or internship oppertunity Wendy spoke about ask Jose or any of the other officers. 
 
+Friday was also the last day to pay student dues. Shirts prices as a result went up to $20.00. We expect to have the shirts ready to hand out the week we come back to school.
 ###Upcoming events:
+* Next meeting will be April 4th
+* Presentor (Jim Phillips) to present on power on April 22nd. More on that later
+
+###<a href="./pages/projects.html">Projects:</a>
+Find out what projects other students are working on in their classes and outside the classroom. 
 
 ###[Contact Us:](http://sfsu-ieee.github.io/contact.html)
 This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to any of the officers. Thanks for looking!
