@@ -5,7 +5,7 @@ title: Welcome!
 #Hello World!
 This is the official site for IEEE students at SFSU. You will find all information regarding our student chapter here on this site. We have meetings once every two weeks and our goal is to continue the learning of electrical and electronic engineering outside the classroom.
 
-###Projects:
+###[Projects:](http://sfsu-ieee.github.io/projects.html)
 
 ###Last meeting:
 
