@@ -1,0 +1,20 @@
+---
+layout: default
+title: Contact Us
+---
+##Officers:
+Here is a list of current officers
+
+* Jose Estrada (president)  
+  email: jlestrada26@att.net
+
+* Stephanie Rosales (Vice President)  
+  email: stephanie.annrosales@gmail.com
+
+* Alex Yore (Treasurer)  
+  email: ayore@mail.sfsu.edu
+
+* Stephanie Benavidez (Activities Chair)  
+  email: ssb2@mail.sfsu.edu
+
+Please contact us at sfsu-ieee@gmail.com for any general questions 

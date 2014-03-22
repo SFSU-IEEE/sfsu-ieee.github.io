@@ -1,0 +1,8 @@
+{% include begin_header.html %}
+    <h1><font COLOR="blue">{{ page.title }}</font></h1>
+{% include end_header.html %}
+{% include begin_body.html %}
+    {{ content }}
+{% include end_body.html %}
+{% include nav.html %}
+{% include footer.html %}
