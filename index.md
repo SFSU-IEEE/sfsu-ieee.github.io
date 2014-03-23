@@ -13,8 +13,14 @@ Friday was also the last day to pay student dues. Shirts prices as a result went
 * Next meeting will be April 4th
 * Presentor (Jim Phillips) to present on power on April 22nd. More on that later
 
+###<a href="./pages/course_resource.html">Course Resources:</a>
+Find resources for a number of different courses here. This is inteded to help students along with the learning objectives defined in their courses.
+
 ###<a href="./pages/projects.html">Projects:</a>
 Find out what projects other students are working on in their classes and outside the classroom. 
+
+###<a href="./pages/photos.html">Photos:</a>
+Check out photos of IEEE student members getting involved in all the different activities we have going on. 
 
 ###<a href="./pages/contact.html">Contact Us:</a>
 This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to any of the officers. Thanks for looking!
