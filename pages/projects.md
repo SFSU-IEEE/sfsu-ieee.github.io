@@ -9,5 +9,5 @@ If you have a project that you would like displayed please contact any of the of
 ###<a href="project_web.html">Project Web:</a>
 This very website is a project and if you would like to add or make suggestions then please do so by going to the project page!
 
-###<a href="project_web.html">Project Blue</a>
+###<a href="project_blue.html">Project Blue:</a>
 Something descriptive here about project blue

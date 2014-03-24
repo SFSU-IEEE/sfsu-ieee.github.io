@@ -8,12 +8,12 @@ Date: Feb. 2014
 
 Student members practing their soldering skills  
 <img src="../images/soldering_wrkshp.jpg" align="middle" width="400">  
-Date: Dec. 2014
+Date: Dec. 2013
 
 Light up Christmas Tree!  
 <img src="../images/soldering_wrkshp_2.jpg" align="middle" width="400">  
-Date: Dec. 2014
+Date: Dec. 2013
 
 Getting close to make sure there are no cold solder joints!  
 <img src="../images/soldering_wrkshp_3.jpg" align="center" width="400">  
-Date: Dec. 2014
+Date: Dec. 2013

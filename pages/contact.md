@@ -5,7 +5,7 @@ title: Contact Us
 ##Officers:
 Here is a list of current officers
 
-* Jose Estrada (president)  
+* Jose Estrada (President)  
   email: jlestrada26@att.net
 
 * Stephanie Rosales (Vice President)  
@@ -17,4 +17,4 @@ Here is a list of current officers
 * Stephanie Benavidez (Activities Chair)  
   email: ssb2@mail.sfsu.edu
 
-Please contact us at sfsu-ieee@gmail.com for any general questions 
+Please contact us at sfsu.ieee@gmail.com for any general questions 
