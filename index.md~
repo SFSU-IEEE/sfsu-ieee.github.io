@@ -25,6 +25,7 @@ Find the answers <a href="./pages/ans.html">here</a>
 ###Upcoming events:
 * Next meeting will be April 4th
 * Presentor (Jim Phillips) to present on power on April 22nd. More on that later
+* SF IAS chapter meeting: DC Arc Flash and Calculations
 
 ###<a href="./pages/course_resource.html">Course Resources:</a>
 Find resources for a number of different courses here. This is inteded to help students along with the learning objectives defined in their courses.
