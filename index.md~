@@ -6,9 +6,15 @@ title: Welcome!
 This is the official site for IEEE students at SFSU. You will find all information regarding our student chapter here on this site. We have meetings once every two weeks and our goal is to continue the learning of electrical and electronic engineering outside the classroom.
 
 ###Last meeting:
-Last meeting we had Wendy Al-Mukdad come to present. The presentation was great with all the advice and help she provided for us as students. We also had a few members of SWE come and attend our meeting. If you need any information on the scholarship or internship oppertunity Wendy spoke about ask Jose or any of the other officers. 
+Last meeting (April 4th) we gave a quick update on a few upcoming events and also handed out the t-shirts that everyone order. Talk to Jose E. or Stephanie R. if you need to pick yours up still or want to purchase one. 
 
-Friday was also the last day to pay student dues. Shirts prices as a result went up to $20.00. We expect to have the shirts ready to hand out the week we come back to school.
+There is just a few things to note. We will be having a presenter come on April 22nd. It will be an early morning presentation (@10am) and coffee/juice/pastries will be provided. Please be sure to bring a friend and sit in on a really good talk. We also discussed some exciting presentations for next semester. We plan to host a few SFSU alumni for a presentation on their experiences after college. There will also be one more presentation held by one of the electrical engineers that had a part in the design of the new Levi's stadium in Santa Clara.
+
+There will be a collaboration event with the student chapter ASME on April 16th. The event is an introduction to microcontrollers (mostly focusing on Arduino). Still working on the details but it should all be sorted out by next week sometime. 
+
+There was also a call for students to begin thinking of projects to submit to our web page. We would like to begin archiving all the work we as students do here at the university. Be sure to send us an email if you would like to submit anything to our project page. We also appreciate any ideas for the Course resources page. 
+
+Again, if anyone wants to help in the design of this web page please email us as we need all the help we can get!
 ####Brain Teasers:
 Problem #1:
 You have a fox, a chicken and a sack of grain. You must cross a river with only one of them at a time. If you leave the fox with the chicken he will eat it; if you leave the chicken with the grain he will eat it. How can you get all three across safely?
@@ -24,9 +30,13 @@ Find the answers <a href="./pages/ans.html">here</a>
 
 ###Upcoming events:
 * Next meeting:
- * When: April 4th
+ * When: April 17th
  * Where: HH-206
  * Time: 5pm-6pm
+* Microcontroller workshop with ASME
+ * When: April 16th
+ * Where: Cesar Chavez student center (room:TBA)
+ * Time: TBA
 * Presentation:
  * Speaker: Jim Phillips
  * When: April 22nd
@@ -49,5 +59,5 @@ Find out what projects other students are working on in their classes and outsid
 Check out photos of IEEE student members getting involved in all the different activities we have going on. 
 
 ###<a href="./pages/contact.html">Contact Us:</a>
-This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to any of the officers. Thanks for looking!
+This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to us at our email address. Thanks for looking!
 
