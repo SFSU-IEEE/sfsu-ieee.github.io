@@ -19,7 +19,8 @@ Again, if anyone wants to help in the design of this web page please email us as
 ###Internship:
 Wendy Al-mukdad has just shared with us the intership information that she spoke about at her presentation at SFSU. Please take a took at the document and I encourage as many of you to apply for this oppertunity. Here is the [link](https://drive.google.com/file/d/0B6KBsfrX-FTGSUtGZTdVMkNLMFE/edit?usp=sharing) 
 
-For any questions about the intership, please contact Wendy at wendy.al-mukdad@cpuc.ca.gov
+For any questions about the intership, please contact Wendy at  
+wendy.al-mukdad@cpuc.ca.gov
 ####Brain Teasers:
 Problem #1:
 You have a fox, a chicken and a sack of grain. You must cross a river with only one of them at a time. If you leave the fox with the chicken he will eat it; if you leave the chicken with the grain he will eat it. How can you get all three across safely?
