@@ -15,6 +15,9 @@ There will be a collaboration event with the student chapter ASME on April 16th.
 There was also a call for students to begin thinking of projects to submit to our web page. We would like to begin archiving all the work we as students do here at the university. Be sure to send us an email if you would like to submit anything to our project page. We also appreciate any ideas for the Course resources page. 
 
 Again, if anyone wants to help in the design of this web page please email us as we need all the help we can get!
+
+###Internship:
+Wendy Al-mukdad has just shared with us the intership information that she spoke about at her presentation at SFSU. Please take a took at the document and I encourage as many of you to apply for this oppertunity. Here is the [link](https://drive.google.com/file/d/0B6KBsfrX-FTGSUtGZTdVMkNLMFE/edit?usp=sharing) 
 ####Brain Teasers:
 Problem #1:
 You have a fox, a chicken and a sack of grain. You must cross a river with only one of them at a time. If you leave the fox with the chicken he will eat it; if you leave the chicken with the grain he will eat it. How can you get all three across safely?
