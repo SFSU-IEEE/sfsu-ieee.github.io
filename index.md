@@ -39,21 +39,33 @@ Find the answers <a href="./pages/ans.html">here</a>
  * When: April 17th
  * Where: HH-206
  * Time: 5pm-6pm
+* Engineering Beach Bonfire
+ * Where: Ocean Beach (Near Lincoln way)
+ * When: Friday, April 11th
+ * Time: 6pm-10pm
+ * Other: Free event with food and drinks provided. Please do not bring any glass containers. 
 * Microcontroller workshop with ASME
- * When: April 16th
+ * When: April 23rd
  * Where: Cesar Chavez student center (room:TBA)
  * Time: TBA
 * Presentation:
  * Speaker: Jim Phillips
  * When: April 22nd
  * Where: Cesar Chavez Student Center (room:TBA)
- * Time: 10am
+ * Time: 10-11am
+ * Other: Here is Jim's [bio] (https://drive.google.com/file/d/0B6KBsfrX-FTGTXZVLV9iMlFoR3c/edit?usp=sharing).
+Here is the [document](https://drive.google.com/file/d/0B6KBsfrX-FTGSElyVnJCU3NTRGs/edit?usp=sharing) outlining what Jim will be talking about. I encourage you all to come as this is sure to be a really great presentation. Food/beverages will be provided as well.
 * SF IAS chapter meeting:
  * Speaker: Jim Phillips
  * Topic: DC Arc Flash and Calculations
  * When: April 22nd
  * Where: Sinbad's Restaurant, Pier 2 The Embarcadero, San Francisco 
  * Time: Networking and social at 5:30 PM; Presentation at 6:00 PM; Dinner at 7:00 PM 
+* Engineering Banquet
+ * Where: 55 Cyril Magnin street SF, CA
+ * When: Friday, May 9th
+ * Time: 5:00-9:00 pm
+ * Other: Tickets are $60.00 before April 11th. Please email sfsuesab@gmail.com
 
 ###<a href="./pages/course_resource.html">Course Resources:</a>
 Find resources for a number of different courses here. This is inteded to help students along with the learning objectives defined in their courses.
