@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 ---
-This page is to demonstrate the variety of projects going on around SFSU that students are participating in. The idea is to get project ideas to do yourself or join a group!
+Find out what projects other students are working on in their classes and outside the classroom! This page is to demonstrate the variety of projects going on around SFSU that students are participating in. The idea is to get project ideas to do yourself or join a group!
 
 If you have a project that you would like displayed please contact us at our email address and we will be more than happy to do it!
 

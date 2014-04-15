@@ -4,5 +4,5 @@
 {% include begin_body.html %}
     {{ content }}
 {% include end_body.html %}
-{% include nav.html %}
+
 {% include footer.html %}

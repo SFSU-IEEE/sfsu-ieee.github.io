@@ -2,6 +2,8 @@
 layout: default
 title: Photos
 ---
+Check out photos of IEEE student members getting involved in all the different activities we have going on.
+
 IEEE members at the ISSCC discussion panel  
 <img src="../images/isscc_photo.jpg" align="middle" width="400">  
 Date: Feb. 2014

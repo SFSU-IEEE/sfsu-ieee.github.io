@@ -2,7 +2,10 @@
 layout: default
 title: Contact Us
 ---
-##Officers:
+This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to us at our email address. Thanks for looking!
+
+###Officers:
+---
 Here is a list of current officers
 
 * Jose Estrada (President)  

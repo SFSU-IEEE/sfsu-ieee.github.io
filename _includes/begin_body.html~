@@ -1,2 +1,3 @@
     <div id="main_content_wrap" class="outer">
-      <section indent="2em" >
+      <section id="main_content" class="inner">
+	<h1><font COLOR="black">{{ page.title }}</font></h1>
