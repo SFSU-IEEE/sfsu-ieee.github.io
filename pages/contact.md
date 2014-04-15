@@ -4,6 +4,9 @@ title: Contact Us
 ---
 This site is still in progress. Please feel free to suggest any ideas or revisons you feel necceary to us at our email address. Thanks for looking!
 
+###Wanna Join?
+If you wish to be apart of our student oragnization you may do so by filling out the google form attached [here](https://docs.google.com/forms/d/1uiRtT1PrgFtZi1L9AqFohdrqVtxh_281XhcyScLxCDo/edit?usp=sharing). This will provide us an email to send all our information about our upcoming events to you. Also, be sure to attend our regular bi-weekly meetings during the school semester.
+
 ###Officers:
 ---
 Here is a list of current officers
