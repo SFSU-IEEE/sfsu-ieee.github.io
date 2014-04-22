@@ -3,7 +3,7 @@
   <head>
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Slate : A responsive theme for GitHub Pages" />
+    <meta name="description" content="IEEE at SFSU" />
 
     <link rel="stylesheet" type="text/css" media="screen" href="../stylesheets/stylesheet.css">
 
@@ -11,7 +11,7 @@
   </head>
 
   <body>
-    <div id="header_wrap" class="outer">
+    <div style="position:fixed" id="header_wrap" class="outer">
         <header class="inner">
 		<h1 id="project_title" ><a href="../index.html">IEEE @ SFSU</a></h1>
 		

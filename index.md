@@ -6,14 +6,11 @@ This is the official site for IEEE students at SFSU. You will find all informati
 
 ---
 ###Last meeting:
-Last meeting (April 4th) we gave a quick update on a few upcoming events and also handed out the t-shirts that everyone order. Talk to Jose E. or Stephanie R. if you need to pick yours up still or want to purchase one. 
+Last meeting (April 17th) we talked and discussed a number of different things. The end of the year is coming to an end and it will be our first year of completion as an organization. To celebrate we will have an end of the year BBQ. We set the date to be May 10th (two weekends before finals) somewhere around Harding park (across the street). This will be a nice way to end the year and congratulate all of us on our hard work. If you would like to help set up the event please let Jose E. or Stephanie B. know. 
 
-There is just a few things to note. We will be having a presenter come on April 22nd. It will be an early morning presentation (@10am) and coffee/juice/pastries will be provided. Please be sure to bring a friend and sit in on a really good talk. We also discussed some exciting presentations for next semester. We plan to host a few SFSU alumni for a presentation on their experiences after college. There will also be one more presentation held by one of the electrical engineers that had a part in the design of the new Levi's stadium in Santa Clara.
+We will also hold elections for next year's officers. Nominations are going on now. You may email Jose E. or send an email to IEEE at SFSU. Each nominee will need to give a short 2-4 min speech on why they feel they would be good for said position. The day for the presentations to take place is May 8th. The results will be said during the BBQ. Voting will be held online and will be open for 24 hours. A list of nominees will be posted by May 1st. 
 
-There will be a collaboration event with the student chapter ASME on April 16th. The event is an introduction to microcontrollers (mostly focusing on Arduino). Still working on the details but it should all be sorted out by next week sometime. 
-
-There was also a call for students to begin thinking of projects to submit to our web page. We would like to begin archiving all the work we as students do here at the university. Be sure to send us an email if you would like to submit anything to our project page. We also appreciate any ideas for the Course resources page. 
-Again, if anyone wants to help in the design of this web page please email us as we need all the help we can get!
+The coming week we are to host Jim Phillips for an early morning presentation in the cesar chavez building (please refer to the calendar for more information). We will also host a microcontroller workshop on April 23rd (Wednesday) with ASME (more info on calendar). 
 
 ---
 ###Internship:
