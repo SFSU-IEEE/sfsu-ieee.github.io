@@ -13,6 +13,18 @@ We will also hold elections for next year's officers. Nominations are going on n
 The coming week we are to host Jim Phillips for an early morning presentation in the cesar chavez building (please refer to the calendar for more information). We will also host a microcontroller workshop on April 23rd (Wednesday) with ASME (more info on calendar). 
 
 ---
+###List of Nominees:
+* President:
+ * Alex Yore 
+* Vice-President:
+ * Tahir Dar
+* Treasurer:
+ * Alex Yore
+* Activities Chair:
+ * Stephanie Benavidez
+ * Stephanie Rosales
+
+---
 ###Internship:
 Wendy Al-mukdad has just shared with us the intership information that she spoke about at her presentation at SFSU. Please take a took at the document and I encourage as many of you to apply for this oppertunity. Here is the [link](https://drive.google.com/file/d/0B6KBsfrX-FTGSUtGZTdVMkNLMFE/edit?usp=sharing) 
 
