@@ -20,6 +20,7 @@ The coming week we are to host Jim Phillips for an early morning presentation in
  * Tahir Dar
 * Treasurer:
  * Alex Yore
+ * Saden Mananhar
 * Activities Chair:
  * Stephanie Rosales
 

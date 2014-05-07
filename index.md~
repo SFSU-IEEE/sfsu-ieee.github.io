@@ -21,7 +21,6 @@ The coming week we are to host Jim Phillips for an early morning presentation in
 * Treasurer:
  * Alex Yore
 * Activities Chair:
- * Stephanie Benavidez
  * Stephanie Rosales
 
 ---
