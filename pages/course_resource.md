@@ -14,4 +14,4 @@ Find resources for a number of different Electrical Engineering courses here.
 
 ###General stuff:
 * [Dave Jones](https://www.youtube.com/user/EEVblog) is an excellent source of information! Here is his youtube channel. We highly recommend the soldering tutrorial videos!
-* Here are some [interview questions](https://drive.google.com/file/d/0B6KBsfrX-FTGQU5HUVJqaGw2MVk/edit?usp=sharing) from Linear Techonology! This would be a good resource for anyone applying to analog design companies.(credit to John Laberinto for the document!)
+* Sorry, We will need to take down the interview questions for now...Come check back later....
