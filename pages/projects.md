@@ -6,8 +6,11 @@ Find out what projects other students are working on in their classes and outsid
 
 If you have a project that you would like displayed please contact us at our email address and we will be more than happy to do it!
 
-###<a href="project_web.html">Project Web:</a>
+###<a href="project_web.html">Project: Web:</a>
 This very website is a project and if you would like to add or make suggestions then please do so by going to the project page!
 
-###<a href="project_blue.html">Project Blue:</a>
+###<a href="project_blue.html">Project: Blue:</a>
 Something descriptive here about project blue
+
+###Project: Mouse
+An autonomous mobile mouse with the Raspberry Pi!
