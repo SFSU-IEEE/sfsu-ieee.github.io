@@ -12,5 +12,5 @@ This very website is a project and if you would like to add or make suggestions 
 ###<a href="project_blue.html">Project: Blue:</a>
 Something descriptive here about project blue
 
-###Project: Mouse
+###<a href="project_mouse.html">Project: Mouse:</a>
 An autonomous mobile mouse with the Raspberry Pi!
